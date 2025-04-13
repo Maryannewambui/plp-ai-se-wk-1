@@ -1,0 +1,4 @@
+This chatbot mimics basic AI decision-making through rule-based logic. 
+It analyzes user queries for keywords and matches them against predefined rules 
+related to cryptocurrency data (price trend, sustainability). 
+Based on these rules, it selects and presents relevant information or recommendations, demonstrating a simple form of automated reasoning and response generation.
